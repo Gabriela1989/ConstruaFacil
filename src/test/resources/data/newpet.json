@@ -1,0 +1,24 @@
+{
+  "id": 1125,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Nicole",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "animal vermifugado na primeira semana"
+    },
+    {
+      "id": 4,
+      "name": "vacinado na segunda semana"
+    }
+  ],
+  "status": "sold"
+}
+
+

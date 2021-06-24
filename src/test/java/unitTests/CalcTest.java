@@ -23,7 +23,6 @@ public class CalcTest {
         System.out.println("O resultado esperado seria " + resultadoEsperado + " e o resultado atual foi " + resultadoAtual);
 
         assertEquals(resultadoAtual, resultadoEsperado);
-
     }
 
     @Test(priority = 2)
@@ -39,8 +38,8 @@ public class CalcTest {
                 + " e o resultado atual foi " + resultadoAtual);
 
         assertEquals(resultadoAtual,resultadoEsperado);
-
     }
+
 
     @Test(priority = 3)
 
@@ -56,7 +55,6 @@ public class CalcTest {
                 + " e o resultado atual foi " + resultadoAtual);
 
         assertEquals(resultadoAtual,resultadoEsperado);
-
      }
 
     @Test(priority = 4)
@@ -72,7 +70,6 @@ public class CalcTest {
                 + " e o resultado atual foi " + resultadoAtual);
 
         assertEquals(resultadoAtual,resultadoEsperado);
-
     }
 
 
