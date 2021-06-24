@@ -52,7 +52,6 @@ public class Pet {
                 .body("tags.id[1]", is(4))
                 .body("tags.name[1]", stringContainsInOrder("segunda semana"))
         ;
-
     }
 
     @Test(priority = 1)
