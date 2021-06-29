@@ -1,10 +1,10 @@
-  {
-    "id": 1125,
-    "username": "1989",
-    "firstName": "Gabriela",
-    "lastName": "Lima",
-    "email": "gabrielalima16@gmail.com",
-    "password": "1234",
-    "phone": "555",
-    "userStatus": "1"
-  }
+{
+  "id": 2125,
+  "username": "Gabrielagaloo",
+  "firstName": "Gabriela",
+  "lastName": "Galo",
+  "email": "gabrielagalo@teste.com",
+  "password": "1234",
+  "phone": "555",
+  "userStatus": 1
+}
