@@ -87,7 +87,7 @@ public class User {
                 .path("message")
     ;
         System.out.println("A MENSAGEM È : " + mensagem);
-        token = mensagem.substring(23);
+
         System.out.println("O token é :" + token)
     ;
 
